@@ -1,0 +1,1 @@
+sudo apt install zlib1g zlib1g-dev
